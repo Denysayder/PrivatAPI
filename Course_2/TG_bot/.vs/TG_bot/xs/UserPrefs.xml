@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8B2C20FD-4F1B-4F1D-837F-C7CCE613F23A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TG__bot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TG_bot/EasyPrivatBank_bot.cs">
+    <Files>
+      <File FileName="TG_bot/Program.cs" Line="4" Column="1" />
+      <File FileName="TG_bot/EasyPrivatBank_bot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TG_bot" expanded="True">
+            <Node name="TG_bot" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

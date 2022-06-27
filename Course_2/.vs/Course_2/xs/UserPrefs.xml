@@ -1,0 +1,54 @@
+﻿<Properties StartupConfiguration="{3ECFA4D8-DC8D-4FEF-B142-2E6E38DE5A37}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Course__2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Course_2/Controllers/OwnArchiveController.cs">
+    <Files>
+      <File FileName="Course_2/Model/Department.cs" Line="7" Column="43" />
+      <File FileName="Course_2/Controllers/WeatherForecastController.cs" Line="34" Column="1" />
+      <File FileName="Course_2/Constants.cs" Line="9" Column="52" />
+      <File FileName="Course_2/Program.cs" Line="10" Column="42" />
+      <File FileName="Course_2/appsettings.json" Line="11" Column="23" />
+      <File FileName="Course_2/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="Course_2/Model/ExchangeRate.cs" Line="6" Column="1" />
+      <File FileName="Course_2/Model/Terminals.cs" Line="6" Column="6" />
+      <File FileName="Course_2/Controllers/ExchangeRateController.cs" Line="10" Column="35" />
+      <File FileName="Course_2/Controllers/TerminalsController.cs" Line="24" Column="2" />
+      <File FileName="Course_2/Client/BankClient.cs" Line="25" Column="72" />
+      <File FileName="Course_2/Controllers/DepartmentController.cs" Line="18" Column="21" />
+      <File FileName="Course_2/Model/CurrencyArchive.cs" Line="6" Column="1" />
+      <File FileName="Course_2/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Course_2/Tg_Bot.cs" Line="127" Column="1" />
+      <File FileName="Course_2/Controllers/CurrencyArchiveController.cs" Line="1" Column="1" />
+      <File FileName="Course_2/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Course_2/Model/tryclass.cs" Line="9" Column="31" />
+      <File FileName="Course_2/Extensions/ToClass.cs" Line="29" Column="27" />
+      <File FileName="Course_2/Model/citydbrepository.cs" Line="6" Column="1" />
+      <File FileName="Course_2/Client/IDynamodbClient.cs" Line="11" Column="40" />
+      <File FileName="Course_2/Client/DynamodbClient.cs" Line="88" Column="18" />
+      <File FileName="Course_2/Controllers/OwnArchiveController.cs" Line="50" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Course_2" expanded="True">
+            <Node name="Course_2" expanded="True">
+              <Node name="Client" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

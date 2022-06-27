@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.7.3.51" />
+    <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="3.7.2" />
+    <PackageReference Include="Telegram.Bot" Version="18.0.0" />
+    <PackageReference Include="Telegram.Bot.Extensions.Polling" Version="1.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Model\" />
+    <None Remove="Client\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="Telegram.Bot.Extensions.Polling" />
+    <None Remove="Telegram.Bot" />
+    <None Remove="AWSSDK.DynamoDBv2" />
+    <None Remove="AWSSDK.Extensions.NETCore.Setup" />
+    <None Remove="Extensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Model\" />
+    <Folder Include="Client\" />
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+</Project>

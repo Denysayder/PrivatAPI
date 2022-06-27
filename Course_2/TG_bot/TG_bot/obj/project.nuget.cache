@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/bHX+EVTsZuBpzitLvgTRHBt9QKLoJ+nluhdkK4ZjxUJoVuZB1bAQ5SD8zFetERUfFyqHcF0tzDd9O5i4DHQXQ==",
+  "success": true,
+  "projectFilePath": "/Users/denisborovik/Course/Course_2/TG_bot/TG_bot/TG_bot.csproj",
+  "expectedPackageFiles": [
+    "/Users/denisborovik/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/denisborovik/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512",
+    "/Users/denisborovik/.nuget/packages/telegram.bot/17.0.0/telegram.bot.17.0.0.nupkg.sha512",
+    "/Users/denisborovik/.nuget/packages/telegram.bot.extensions.polling/1.0.2/telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
